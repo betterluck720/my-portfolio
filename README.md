@@ -12,7 +12,7 @@ This project is designed to serve as a professional portfolio platform for showc
 - admin-managed content updates
 - production-ready deployment configuration
 
-## Tech Stack
+## Technical Stack
 
 - Next.js 16
 - React 19
